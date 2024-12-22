@@ -11,3 +11,6 @@ Hayvan türleri: Leopar, Dolphin, Aslan, Tilki, Moose, Tavşan, At, Sincap, Yara
 Veri Seti: Bu proje, hayvan görselleri içeren geniş bir veri setini kullanarak, her bir görseli etiketleyerek modelin doğruluğunu artırmayı hedeflemiştir.
 
 Görüntü İşleme Teknikleri: Görüntülerin parlaklık artırma, renk sabitliği uygulama gibi manipülasyonlarla modellenin dayanıklılığı test edilmiştir.
+
+
+  kaggle link: https://www.kaggle.com/code/emrekonce/aygaz-g-r-nt-leme-bootcamp
